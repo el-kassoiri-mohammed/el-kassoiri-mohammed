@@ -243,12 +243,18 @@ English          ███████████████ 75%
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-  ### 💡 "The future belongs to those who understand data and can make machines learn from it"
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+innovate+together!;AI+%2B+ML+%3D+Future" alt="Closing Message" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+    </td>
+    <td>
+      <h3>💡 "The future belongs to those who understand data and can make machines learn from it"</h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&width=500&lines=Thanks+for+visiting!;Let's+innovate+together!;AI+%2B+ML+%3D+Future" alt="Typing animation" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
