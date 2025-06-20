@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/>
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="300"/>
 </div>
 
@@ -68,7 +68,7 @@ me.say_hi()
 
 <div align="center">
   <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="300" height="150"/>
-    <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="200" width="300"/>
+    <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="150" width="300"/>
 </div>
 
 ---
