@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="300"/>
 </div>
 
@@ -42,10 +42,6 @@ me.say_hi()
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,r,js,html,css,sql" />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="300" height="150"/>
-</div>
-
 
 ### 🤖 AI/ML Frameworks & Libraries
 <div align="left">
@@ -58,18 +54,10 @@ me.say_hi()
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </div>
  
-<div align="center">
-  <img src="https://media.giphy.com/media/ZO9b1ntYVJmjZlsWlm/giphy.gif" height="200" width="300"/>
-    <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="200" width="300"/>
-</div>
 
 ### 🌐 Web Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=django,flask,mongodb,mysql" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 </div>
 
 ### 🔧 Development Tools
@@ -79,7 +67,8 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="300" height="150"/>
+    <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="200" width="300"/>
 </div>
 
 ---
@@ -132,10 +121,6 @@ me.say_hi()
 ---
 
 ### 💳 Credit Card Fraud Detection API
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="150"/>
-</div>
-
 <div align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -149,12 +134,6 @@ me.say_hi()
 - ⚡ **Flask API**: Fast and scalable web service
 - 🎯 **Financial Security**: Protecting digital transactions
 
-<div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="250"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400"/>
@@ -265,8 +244,7 @@ English          ███████████████ 75%
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-  
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
   ### 💡 "The future belongs to those who understand data and can make machines learn from it"
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+innovate+together!;AI+%2B+ML+%3D+Future" alt="Closing Message" />
