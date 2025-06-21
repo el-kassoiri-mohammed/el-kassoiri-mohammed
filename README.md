@@ -6,7 +6,9 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200"/>
+  <!---
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="200"/>
+  --->
 </div>
 
 ---
@@ -29,11 +31,11 @@ class AIEngineer:
 me = AIEngineer()
 me.say_hi()
 ```
-
+<!---
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </div>
-
+-->
 ---
 
 ## 🛠️ Tech Arsenal
@@ -67,10 +69,12 @@ me.say_hi()
 </div>
 
 <div align="center">
+  <!---
   <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="300" height="150"/>
-    <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="150" width="300"/>
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" height="150" width="300"/>
 </div>
-
+--->
+  
 ---
 
 ## 🔥 Featured Projects
@@ -147,16 +151,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammed404-7M7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed404-7M7&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=el-kassoiri-mohammed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-kassoiri-mohammed&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed404-7M7&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=el-kassoiri-mohammed&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed404-7M7&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=el-kassoiri-mohammed&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -172,11 +176,11 @@ me.say_hi()
 | **Lycée Anas Ibno Malik** | Baccalauréat Sciences Math | 2020 - 2021 | El Kelaa Des Sraghna, Morocco |
 
 </div>
-
+<!---
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400"/>
 </div>
-
+--->
 ---
 
 ## 🌟 Skills Matrix
@@ -232,13 +236,13 @@ English          ███████████████ 75%
   <a href="https://linkedin.com/in/el-kassoiri-mohammed">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Mohammed404-7M7">
+  <a href="https://github.com/el-kassoiri-mohammed">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed404-7M7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=el-kassoiri-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
